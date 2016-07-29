@@ -1,0 +1,34 @@
+{
+  "name": "dataset.js",
+  "version": "1.0.0",
+  "description": "Utility to have Sets in Javascript that allows deep object comparison and custom comparators",
+  "main": "index.js",
+  "dependencies": {
+    "deep-equal": "^1.0.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmybyrum/dataset.git"
+  },
+  "keywords": [
+    "set",
+    "unique",
+    "array",
+    "object",
+    "deep"
+  ],
+  "author": "Jimmy Byrum <me@jimmybyrum.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimmybyrum/dataset/issues"
+  },
+  "homepage": "https://github.com/jimmybyrum/dataset#readme"
+}
