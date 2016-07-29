@@ -1,6 +1,6 @@
 {
   "name": "dataset.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility to have Sets in Javascript that allows deep object comparison and custom comparators",
   "main": "index.js",
   "dependencies": {
