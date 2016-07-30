@@ -4,6 +4,7 @@ Loosely based on mongo arrays: https://docs.mongodb.com/manual/reference/operato
 
 ### Why?
 Set is a new data type in ES6, though it does not enforce object uniqueness:
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set
 
 ```js
