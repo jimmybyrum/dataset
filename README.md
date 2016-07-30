@@ -7,6 +7,7 @@ Set is a new data type in ES6, though it does not enforce object uniqueness:
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set
 
+## Install
 ```js
 npm install -S dataset.js
 ```
