@@ -1,5 +1,10 @@
 # dataset [![](https://travis-ci.org/jimmybyrum/dataset.svg)](https://travis-ci.org/jimmybyrum/dataset)
-Utility to have Sets in Javascript that allows deep object comparison and custom comparators
+Extension of Array that adds functions for ensuring unique values.
+Loosely based on mongo arrays: https://docs.mongodb.com/manual/reference/operator/update-array/
+
+### Why?
+Set is a new data type in ES6, though it does not enforce object uniqueness:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set
 
 ```js
 npm install -S dataset.js
