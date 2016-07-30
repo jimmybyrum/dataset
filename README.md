@@ -1,4 +1,4 @@
-# dataset
+# dataset [![](https://travis-ci.org/jimmybyrum/dataset.svg)](https://travis-ci.org/jimmybyrum/dataset)
 Utility to have Sets in Javascript that allows deep object comparison and custom comparators
 
 ```js
